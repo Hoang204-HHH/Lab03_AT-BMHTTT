@@ -1,0 +1,2 @@
+# Giữ nguyên từng byte của mọi tệp để SHA-256 trong Evidence/evidence_sha256.csv luôn khớp
+* -text
